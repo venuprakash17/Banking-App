@@ -1,0 +1,30 @@
+{
+    "customers": [
+        {
+            "name": "User1",
+            "fatherName": "Father1",
+            "DOB": "99/99/9999",
+            "aadharNumber": "999218291832891",
+            "phoneNumber": "92919198921",
+            "panNumber": "BJKBCSA1",
+            "atmNumber": 3889881762405327,
+            "atmCVV": 457,
+            "atmPin": 6616,
+            "accountNumber": 3474505204,
+            "balance": 10000
+        },
+        {
+            "name": "User2",
+            "fatherName": "Father2",
+            "DOB": "99/99/1999",
+            "aadharNumber": "9020192",
+            "phoneNumber": "209031312391",
+            "panNumber": "123093121",
+            "atmNumber": 7684352130337704,
+            "atmCVV": 472,
+            "atmPin": 2580,
+            "accountNumber": 3762615640,
+            "balance": 10000
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "customers": [
+        {
+            "name": "User1",
+            "fatherName": "Father1",
+            "DOB": "90/12/9211",
+            "aadharNumber": "999988921821",
+            "phoneNumber": "9887657311221",
+            "panNumber": "BL121hbkja",
+            "atmNumber": 2815042574631103,
+            "Transactions": [],
+            "atmCVV": 704,
+            "Monthly_Income": 80000,
+            "atmPin": 5883,
+            "loans": {
+                "Crop": {
+                    "EMI": 25000.0,
+                    "total_paying_amount": 1500000.0,
+                    "loan_amount": 1000000,
+                    "intrest_amount": 500000.0,
+                    "Tenure": 60
+                },
+                "Education": {
+                    "EMI": 17222.222222222223,
+                    "total_paying_amount": 620000.0,
+                    "loan_amount": 500000,
+                    "intrest_amount": 120000.0,
+                    "Tenure": 36
+                }
+            },
+            "accountNumber": 5640792105,
+            "balance": 27977
+        },
+        {
+            "name": "User2",
+            "fatherName": "Father2",
+            "DOB": "21/21/2912",
+            "aadharNumber": "889219829812",
+            "phoneNumber": "2131819821",
+            "panNumber": "21BLK12",
+            "atmNumber": 9213531719866555,
+            "atmCVV": 335,
+            "Transactions": [],
+            "Monthly_Income": 120000,
+            "atmPin": 5076,
+            "loans": {
+                "Gold": {
+                    "EMI": 5250.0,
+                    "total_paying_amount": 315000.0,
+                    "loan_amount": 175000,
+                    "intrest_amount": 140000.0,
+                    "Tenure": 60
+                }
+            },
+            "accountNumber": 1687673522,
+            "balance": 10000
+        },
+        {
+            "name": "User3",
+            "fatherName": "Father3",
+            "DOB": "12/21/8928",
+            "aadharNumber": "98128912821",
+            "phoneNumber": "6390123897",
+            "panNumber": "BLV90921B",
+            "atmNumber": 1367751984440747,
+            "atmCVV": 919,
+            "Transactions": [],
+            "Monthly_Income": 60000,
+            "atmPin": 1664,
+            "loans": {
+                "Home": {
+                    "EMI": 9600.0,
+                    "total_paying_amount": 576000.0,
+                    "loan_amount": 360000,
+                    "intrest_amount": 216000.0,
+                    "Tenure": 60
+                },
+                "Gold": {
+                    "EMI": 4316.666666666667,
+                    "total_paying_amount": 155400.0,
+                    "loan_amount": 105000,
+                    "intrest_amount": 50400.0,
+                    "Tenure": 36
+                }
+            },
+            "accountNumber": 6128455616,
+            "balance": 10000
+        },
+        {
+            "name": "User4",
+            "fatherName": "Father4",
+            "DOB": "12/12/2012",
+            "aadharNumber": "1234567890-",
+            "phoneNumber": "098765432",
+            "panNumber": "asdfghjkl;",
+            "atmNumber": 9701796071238837,
+            "atmCVV": 893,
+            "atmPin": 6998,
+            "Monthly_Income": 80000,
+            "accountNumber": 1691680955,
+            "balance": 14000,
+            "loans": {},
+            "Transactions": [
+                "Credit: ------1000--- Closing Balance: 12000   @  2024-07-09 10:57:23.024133",
+                "Credit: ------1000--- Closing Balance: 13000   @  2024-07-09 10:58:39.053256",
+                "DEBIT: ------3000--- Closing Balance:10000@2024-07-10 10:31:15.378868",
+                "DEBIT: ------1000--- Closing Balance:9000@2024-07-10 10:32:20.655651",
+                "Credit: ------5000--- Closing Balance: 14000   @  2024-07-10 10:33:00.711880"
+            ]
+        }
+    ]
+}
